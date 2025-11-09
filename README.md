@@ -35,8 +35,8 @@ Simply enter a movie name, and the app fetches similar films with details like p
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/movie-recommendation-finder.git
-cd movie-recommendation-finder
+(https://github.com/PusprajKumar000/Movie.git)
+cd Movie
 ```
 
 ### 2️⃣ Create and activate a virtual environment
@@ -124,7 +124,7 @@ pillow
 ## ❤️ Credits
 
 * **Data:** [TMDb API](https://developer.themoviedb.org/docs)
-* **Developer:** Your Name ([@yourhandle](https://github.com/yourusername))
+* **Developer:** Your Name ([@yourhandle](https://github.com/pusprajkumar000))
 
 ---
 
@@ -135,3 +135,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 Would you like me to include a **`requirements.txt`** file and a **`.env.example`** template as well? I can generate them for you automatically.
+
